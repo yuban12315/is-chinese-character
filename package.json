@@ -1,6 +1,6 @@
 {
   "name": "is-chinese-character",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/yuban12315/is-chinese-character/issues"
   },
   "homepage": "https://github.com/yuban12315/is-chinese-character#readme",
-  "dependencies": {
-    "shapefile": "^0.6.6"
-  }
+  "dependencies": {}
 }
